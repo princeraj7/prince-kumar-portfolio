@@ -103,5 +103,10 @@ Mahatma Gandhi Central University, Bihar
 - 🔗 LinkedIn: [Prince Kumar](https://www.linkedin.com/in/prince-kumar-aa297b171)
 
 ---
+## ⚙️ Skills Badges
+![Python](https://img.shields.io/badge/Python-blue)
+![Flask](https://img.shields.io/badge/Flask-black)
+![Azure](https://img.shields.io/badge/Azure-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
 
 ⭐ *Open to Backend / Software Engineer roles (Remote / Hybrid)*
